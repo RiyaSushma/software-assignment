@@ -1,4 +1,7 @@
-demo: https://github.com/user-attachments/assets/4d55b027-5327-4d10-b90b-23094e9bda6b
+live : https://software-assignment.vercel.app/
+demo video: https://github.com/user-attachments/assets/4d55b027-5327-4d10-b90b-23094e9bda6b
+
+
 
 # React + Vite
 
